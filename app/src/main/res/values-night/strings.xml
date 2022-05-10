@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="from_1_to_100">Число находится в пределах от 1 до 100. Угадайте число!</string>
+    <string name="guess_the_number">Угадайте число!</string>
+    <string name="Enter_the_number">Введите число!</string>
+    <string name="guess">Угадать!</string>
+</resources>
